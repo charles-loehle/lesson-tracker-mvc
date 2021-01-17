@@ -1,0 +1,10 @@
+{
+    "name": "clgui/music-lesson-tracker-mvc-framework",
+    "authors": [
+        {
+            "name": "Charles Loehle",
+            "email": "clguitar1@gmail.com"
+        }
+    ],
+    "require": {}
+}
